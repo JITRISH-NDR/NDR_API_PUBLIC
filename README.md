@@ -12,6 +12,8 @@ Python tools for querying the UK National Data Repository (NDR), generating CSV 
 
 - Python 3.x
 - Jupyter Notebook
+- Use this youtube video if you need help with jupyter notebook installtion. https://youtu.be/KeP0g-R3WB8?si=YrSmn9XdX8iKU48r
+
 - Using the Green Button (<> CODE) on top right of this page, Download this repository as .zip, and unzip it in your computer.
 - Copy paste this folder from where you can run this in Jupyter. Also keep this folder open as well. We will need in next step
 
