@@ -19,9 +19,9 @@ Python tools for querying the UK National Data Repository (NDR), generating CSV 
 In Jupyter open a new notebook and rename it as per convenience. 
 
 ## **RUN THE FOLLOWING one after another**
-pip install -r requirements.txt
-import shutil
-shutil.copy(".env.example", ".env")
+- pip install -r requirements.txt
+- import shutil
+- shutil.copy(".env.example", ".env")
 
 This should create a file called ".env" in your folder. Open this file in Notebook, from folder we kept open above.
 
