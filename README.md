@@ -26,7 +26,7 @@ shutil.copy(".env.example", ".env")
 This should create a file called ".env" in your folder. Open this file in Notebook
 
 ## Configuration
-1. Populate the values in .env using the credentials supplied during NDR registration. To do this use . USE THE DOUBLE INVERTED COMMAS. then save the file.
+1. Populate the values in .env using the credentials supplied during NDR registration. To do this useuse notebook for editing . USE THE DOUBLE INVERTED COMMAS and space as in example below. then save the file.
   eg. TENANT ID= "a5er3t-xyzo-098753-trmo" (this is just a fabricated value, please use one from your email
 2. This should get you setup for future
 
